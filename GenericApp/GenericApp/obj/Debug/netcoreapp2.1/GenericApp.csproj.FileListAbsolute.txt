@@ -1,0 +1,11 @@
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\bin\Debug\netcoreapp2.1\GenericApp.deps.json
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\bin\Debug\netcoreapp2.1\GenericApp.runtimeconfig.json
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\bin\Debug\netcoreapp2.1\GenericApp.runtimeconfig.dev.json
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\bin\Debug\netcoreapp2.1\GenericApp.dll
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\bin\Debug\netcoreapp2.1\GenericApp.pdb
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.csprojAssemblyReference.cache
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.csproj.CoreCompileInputs.cache
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.AssemblyInfoInputs.cache
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.AssemblyInfo.cs
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.dll
+D:\SuPengFiles\Desktop\GenericApp\GenericApp\obj\Debug\netcoreapp2.1\GenericApp.pdb
