@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj",
+      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj",
       "projectName": "Czar.Cms.ViewModels",
-      "projectPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj",
+      "projectPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj",
       "packagesPath": "C:\\Users\\supen\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.ViewModels\\obj\\",
+      "outputPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

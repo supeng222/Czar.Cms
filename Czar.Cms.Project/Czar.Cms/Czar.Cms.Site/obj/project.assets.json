@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.Site\\Czar.Cms.Site.csproj",
+      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.Site\\Czar.Cms.Site.csproj",
       "projectName": "Czar.Cms.Site",
-      "projectPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.Site\\Czar.Cms.Site.csproj",
+      "projectPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.Site\\Czar.Cms.Site.csproj",
       "packagesPath": "C:\\Users\\supen\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.Site\\obj\\",
+      "outputPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.Site\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

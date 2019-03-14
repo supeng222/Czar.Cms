@@ -7,3 +7,12 @@ E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Core\obj\Debu
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Core\bin\Debug\netcoreapp2.2\Czar.Cms.Core.pdb
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.dll
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.pdb
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\bin\Debug\netcoreapp2.2\Czar.Cms.Core.deps.json
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\bin\Debug\netcoreapp2.2\Czar.Cms.Core.dll
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\bin\Debug\netcoreapp2.2\Czar.Cms.Core.pdb
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.csprojAssemblyReference.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.csproj.CoreCompileInputs.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.AssemblyInfoInputs.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.AssemblyInfo.cs
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.dll
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.Core\obj\Debug\netcoreapp2.2\Czar.Cms.Core.pdb

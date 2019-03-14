@@ -725,11 +725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.IServices\\Czar.Cms.IServices.csproj",
+      "projectUniqueName": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.IServices\\Czar.Cms.IServices.csproj",
       "projectName": "Czar.Cms.IServices",
-      "projectPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.IServices\\Czar.Cms.IServices.csproj",
+      "projectPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.IServices\\Czar.Cms.IServices.csproj",
       "packagesPath": "C:\\Users\\supen\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.IServices\\obj\\",
+      "outputPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.IServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -748,11 +748,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.Models\\Czar.Cms.Models.csproj": {
-              "projectPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.Models\\Czar.Cms.Models.csproj"
+            "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.Models\\Czar.Cms.Models.csproj": {
+              "projectPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.Models\\Czar.Cms.Models.csproj"
             },
-            "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj": {
-              "projectPath": "E:\\Code\\MyGitHub\\Czar\\Czar.Cms\\Sample02\\Czar.Cms\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj"
+            "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj": {
+              "projectPath": "E:\\Code\\MyGitHub\\Czar.Cms\\Sample02\\Czar.Cms.Project\\Czar.Cms\\Czar.Cms.ViewModels\\Czar.Cms.ViewModels.csproj"
             }
           }
         }

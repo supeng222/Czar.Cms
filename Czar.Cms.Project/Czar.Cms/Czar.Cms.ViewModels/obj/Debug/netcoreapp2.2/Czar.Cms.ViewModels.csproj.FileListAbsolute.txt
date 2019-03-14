@@ -7,3 +7,12 @@ E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.ViewModels\ob
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.AssemblyInfo.cs
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.dll
 E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.pdb
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp2.2\Czar.Cms.ViewModels.deps.json
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp2.2\Czar.Cms.ViewModels.dll
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp2.2\Czar.Cms.ViewModels.pdb
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.csprojAssemblyReference.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.csproj.CoreCompileInputs.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.AssemblyInfoInputs.cache
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.AssemblyInfo.cs
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.dll
+E:\Code\MyGitHub\Czar.Cms\Sample02\Czar.Cms.Project\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp2.2\Czar.Cms.ViewModels.pdb
