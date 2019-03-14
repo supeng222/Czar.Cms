@@ -1,0 +1,16 @@
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.deps.json
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.pdb
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Core.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.IRepository.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Models.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Core.pdb
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.IRepository.pdb
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\bin\Debug\netcoreapp2.2\Czar.Cms.Models.pdb
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.csprojAssemblyReference.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.csproj.CoreCompileInputs.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.AssemblyInfoInputs.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.AssemblyInfo.cs
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.csproj.CopyComplete
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Repository.SqlServer\obj\Debug\netcoreapp2.2\Czar.Cms.Repository.SqlServer.pdb

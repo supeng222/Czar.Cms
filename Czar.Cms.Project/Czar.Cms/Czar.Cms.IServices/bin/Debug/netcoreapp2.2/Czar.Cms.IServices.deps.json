@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Czar.Cms.IServices/1.0.0": {
+        "dependencies": {
+          "Czar.Cms.Models": "1.0.0",
+          "Czar.Cms.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "Czar.Cms.IServices.dll": {}
+        }
+      },
+      "Czar.Cms.Models/1.0.0": {
+        "runtime": {
+          "Czar.Cms.Models.dll": {}
+        }
+      },
+      "Czar.Cms.ViewModels/1.0.0": {
+        "runtime": {
+          "Czar.Cms.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Czar.Cms.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Czar.Cms.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Czar.Cms.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

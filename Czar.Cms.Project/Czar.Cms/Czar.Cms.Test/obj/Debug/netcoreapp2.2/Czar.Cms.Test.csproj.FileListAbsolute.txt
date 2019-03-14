@@ -1,0 +1,14 @@
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Czar.Cms.Test.deps.json
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Czar.Cms.Test.runtimeconfig.json
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Czar.Cms.Test.runtimeconfig.dev.json
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Czar.Cms.Test.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\bin\Debug\netcoreapp2.2\Czar.Cms.Test.pdb
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.csprojAssemblyReference.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.csproj.CoreCompileInputs.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.AssemblyInfoInputs.cache
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.AssemblyInfo.cs
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.dll
+E:\Code\MyGitHub\Czar\Czar.Cms\Sample02\Czar.Cms\Czar.Cms\Czar.Cms.Test\obj\Debug\netcoreapp2.2\Czar.Cms.Test.pdb
